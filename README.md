@@ -68,12 +68,6 @@ A modern Next.js product focused on delivering an AI-assisted fitness experience
 
 
 
-### [King Solomon Tours & Travels](https://github.com/kevo-dev/king-solomon-tours-and-travels)
-
-A customer-facing web product for a travel and tours business.
-
-
-
 ## Technology
 
 
